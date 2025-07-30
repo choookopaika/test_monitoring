@@ -1,0 +1,7 @@
+2025-07-30 16:51:07 [info] process 'test' restarted. Old PID: 39952, New PID: 40047
+2025-07-30 16:51:12 [error] Monitoring server unreachable: https://test.com/monitoring/test/api
+2025-07-30 16:52:57 [error] Monitoring server unreachable: https://test.com/monitoring/test/api
+2025-07-30 16:54:03 [error] Monitoring server unreachable: https://test.com/monitoring/test/api
+2025-07-30 16:55:09 [error] Monitoring server unreachable: https://test.com/monitoring/test/api
+2025-07-30 16:56:14 [error] Monitoring server unreachable: https://test.com/monitoring/test/api
+2025-07-30 16:58:08 [error] Monitoring server unreachable: https://test.com/monitoring/test/api
